@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "nickname": "玩家",
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8765
+  },
+  "avatar": {
+    "id": null,
+    "file": "D:\\chinese go\\build\\avatar_probe2\\avatars\\me-cc470ce46918.webp"
+  },
+  "look": {
+    "background": null,
+    "darken": 55
+  },
+  "audio": {
+    "bgm_volume": 0.65,
+    "sfx_volume": 0.7,
+    "sfx_enabled": true
+  },
+  "window": {
+    "width": 1120,
+    "height": 920
+  }
+}

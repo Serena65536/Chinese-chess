@@ -1,0 +1,95 @@
+{
+  "opening": [
+    {
+      "move": "(1, 7)->(4, 7)",
+      "ok": true
+    },
+    {
+      "move": "(7, 0)->(6, 2)",
+      "ok": true
+    },
+    {
+      "move": "(1, 9)->(2, 7)",
+      "ok": true
+    },
+    {
+      "move": "(7, 2)->(7, 4)",
+      "ok": true
+    },
+    {
+      "move": "(0, 9)->(0, 7)",
+      "ok": true
+    },
+    {
+      "move": "(0, 3)->(0, 4)",
+      "ok": true
+    }
+  ],
+  "checks": {
+    "status": "CHECK",
+    "info_label": "将军！",
+    "check_square": [
+      3,
+      0
+    ]
+  },
+  "record_lines": [
+    "1. 炮 b2-e2",
+    "2. 马 h9-g7",
+    "3. 马 b0-c2",
+    "4. 炮 h7-h5",
+    "5. 车 a0-a2",
+    "6. 卒 a6-a5"
+  ],
+  "turn": "红方",
+  "animation": {
+    "is_animating": true,
+    "t": 0.682
+  },
+  "terminal": {
+    "status": "CHECKMATE",
+    "text": "红方胜 · 将死",
+    "turn_label": "轮到 · 黑方",
+    "info_label": "红方胜 · 将死",
+    "buttons_enabled": [
+      false,
+      false
+    ],
+    "view_locked": true
+  },
+  "capture": {
+    "ok": true,
+    "captured": "马"
+  },
+  "sfx": {
+    "directory": "D:\\chinese go\\build\\sfx",
+    "files": [
+      "capture.wav",
+      "check.wav",
+      "move.wav",
+      "win.wav"
+    ],
+    "status": {
+      "move": {
+        "loaded": true,
+        "status": "Ready",
+        "source": "D:/chinese go/build/sfx/move.wav"
+      },
+      "capture": {
+        "loaded": true,
+        "status": "Ready",
+        "source": "D:/chinese go/build/sfx/capture.wav"
+      },
+      "check": {
+        "loaded": true,
+        "status": "Ready",
+        "source": "D:/chinese go/build/sfx/check.wav"
+      },
+      "win": {
+        "loaded": true,
+        "status": "Ready",
+        "source": "D:/chinese go/build/sfx/win.wav"
+      }
+    }
+  }
+}

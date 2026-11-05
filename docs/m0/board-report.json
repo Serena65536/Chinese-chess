@@ -1,0 +1,96 @@
+﻿{
+  "sizes": [
+    {
+      "window": [
+        760,
+        880
+      ],
+      "transform_m11": 0.7652,
+      "transform_m22": 0.7652,
+      "uniform_scale": true,
+      "board_px": [
+        613,
+        690
+      ],
+      "cell_px": 76.62,
+      "aspect": 0.88841,
+      "aspect_ok": true,
+      "viewport": [
+        760,
+        841
+      ],
+      "scene_px": [
+        2,
+        3,
+        757,
+        834
+      ],
+      "scene_fits": true
+    },
+    {
+      "window": [
+        1280,
+        1500
+      ],
+      "transform_m11": 1.2915,
+      "transform_m22": 1.2915,
+      "uniform_scale": true,
+      "board_px": [
+        1035,
+        1164
+      ],
+      "cell_px": 129.38,
+      "aspect": 0.88918,
+      "aspect_ok": true,
+      "viewport": [
+        1280,
+        1461
+      ],
+      "scene_px": [
+        2,
+        27,
+        1277,
+        1406
+      ],
+      "scene_fits": true
+    },
+    {
+      "window": [
+        520,
+        900
+      ],
+      "transform_m11": 0.5223,
+      "transform_m22": 0.5223,
+      "uniform_scale": true,
+      "board_px": [
+        419,
+        471
+      ],
+      "cell_px": 52.38,
+      "aspect": 0.8896,
+      "aspect_ok": true,
+      "viewport": [
+        520,
+        861
+      ],
+      "scene_px": [
+        2,
+        145,
+        517,
+        569
+      ],
+      "scene_fits": true
+    }
+  ],
+  "background": {
+    "source": "ϵͳ��ֽ",
+    "image_size": [
+      3840,
+      2400
+    ]
+  },
+  "selection": {
+    "piece": "�� (b2)",
+    "hint_points": 7
+  }
+}

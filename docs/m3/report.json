@@ -1,0 +1,31 @@
+{
+  "avatar_bytes": {
+    "a": {
+      "bytes": 8894,
+      "format": "webp"
+    },
+    "b": {
+      "bytes": 8572,
+      "format": "webp"
+    }
+  },
+  "crop": {
+    "source": "合成的 600×600 人像",
+    "zoom": 1.4
+  },
+  "room_code": "157706",
+  "a_avatar_uploaded": true,
+  "b_avatar_uploaded": true,
+  "a_sees_opponent_avatar": true,
+  "b_sees_opponent_avatar": true,
+  "a_my_name": "红方",
+  "a_opponent_name": "黑方",
+  "persistence": {
+    "config_file": "D:\\chinese go\\build\\m3_config\\config.json",
+    "avatar_loaded": true,
+    "darken": 70,
+    "bgm_volume": 0.33,
+    "sfx_enabled": false
+  },
+  "server_port": 62501
+}

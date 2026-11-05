@@ -1,0 +1,14 @@
+2026-11-01 09:51:16 INFO    app: 启动 client v1.4.0 (frozen=True)
+2026-11-01 09:51:26 INFO    app: 启动 client v1.4.0 (frozen=True)
+2026-11-01 09:51:59 ERROR   uncaught: 未捕获异常
+Traceback (most recent call last):
+  File "client\app.py", line 581, in _create_room
+  File "client\app.py", line 553, in _connect_if_needed
+  File "client\app.py", line 530, in _ensure_client
+AttributeError: 'MainWindow' object has no attribute 'server_host'
+2026-11-01 09:52:48 ERROR   uncaught: 未捕获异常
+Traceback (most recent call last):
+  File "client\app.py", line 593, in _join_room
+  File "client\app.py", line 553, in _connect_if_needed
+  File "client\app.py", line 530, in _ensure_client
+AttributeError: 'MainWindow' object has no attribute 'server_host'

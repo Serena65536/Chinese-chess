@@ -1,0 +1,32 @@
+{
+  "room_code": "574197",
+  "record_a": [
+    "1. 炮 b2-e2",
+    "2. 马 h9-g7",
+    "3. 马 b0-c2",
+    "4. 炮 h7-h5",
+    "5. 车 a0-a2",
+    "6. 卒 a6-a5"
+  ],
+  "record_b": [
+    "1. 炮 b2-e2",
+    "2. 马 h9-g7",
+    "3. 马 b0-c2",
+    "4. 炮 h7-h5",
+    "5. 车 a0-a2",
+    "6. 卒 a6-a5"
+  ],
+  "records_match": true,
+  "a_seat": 0,
+  "b_seat": 1,
+  "a_color": "红方",
+  "b_color": "黑方",
+  "game_over_text": "黑方胜 · 红方认输",
+  "clock_paused_after_drop": true,
+  "reconnected": true,
+  "server_port": 62649,
+  "clock_config": {
+    "baseMs": 4000,
+    "byoMs": 30000
+  }
+}
